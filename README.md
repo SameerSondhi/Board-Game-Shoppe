@@ -1,6 +1,5 @@
 # Board Game Shoppe
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> An e-Commerce website dedicated to offering quality board games for competitive prices!
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -17,29 +16,26 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- This website was a very enjoyable group project that culminated into a fully fledged online board game store. It features a large inventory of popular board games, and some that you didn't know exist. Although not accepting payments at the moment, the user can log in and purchase their favorite games using our payment processing system powered by Stripe.
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Languages: Java, JavaScript
+- Frameworks: Spring MVC, React
+- Styling: Bootstrap, CSS
+- Databases: mySQL
+- APIs: Stripe, Board Game Atlas
 
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Store page with "Add-to-Cart" and game detail functionality. 
+- Login and Registration to protect customer cart information and safeguard payment portal. Complete with validations.
+- Stripe componenent to process credit card payments (not accepting payments at the moment but the feature is live).
+- Filtering by category and search-by-keyword options are also available to enhance shopping experience. 
 
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+## Website Demo
 
 
 ## Setup
@@ -49,41 +45,12 @@ Proceed to describe how to install / setup one's local environment / get started
 
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
+This website is customizable and scalable.
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
-
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
+Project is complete! Still, we are always open to feedback and more than willing to add more features. 
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+- Many thanks to Kevin Moore and Mandvi Alreja for collaborating and turning this concept into reality!
