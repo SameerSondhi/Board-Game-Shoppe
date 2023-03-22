@@ -53,4 +53,4 @@ Project is complete! Still, we are always open to feedback and more than willing
 
 
 ## Acknowledgements
-- Many thanks to Kevin Moore and Mandvi Alreja for collaborating and turning this concept into reality!
+Many thanks to Kevin Moore and Mandvi Alreja for collaborating and turning this concept into reality!
