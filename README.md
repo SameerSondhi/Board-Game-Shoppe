@@ -35,7 +35,7 @@ Ready features:
 - Filtering by category and search-by-keyword options are also available to enhance shopping experience. 
 
 
-## Website Demo
+## Screen Shots
 
 
 ## Setup
