@@ -28,7 +28,7 @@
 
 
 ## Features
-List the ready features here:
+Ready features:
 - Store page with "Add-to-Cart" and game detail functionality. 
 - Login and Registration to protect customer cart information and safeguard payment portal. Complete with validations.
 - Stripe componenent to process credit card payments (not accepting payments at the moment but the feature is live).
