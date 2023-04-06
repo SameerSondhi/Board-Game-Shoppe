@@ -36,7 +36,11 @@ Ready features:
 
 
 ## Screen Shots
-
+![Screenshot](Homepage.png)
+![Screenshot](Login_Registration.png)
+![Screenshot](Store.png)
+![Screenshot](Cart.png)
+![Screenshot](Checkout.png)
 
 ## Setup
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
