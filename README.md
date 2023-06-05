@@ -23,7 +23,7 @@
 - Languages: Java, JavaScript
 - Frameworks: Spring MVC, React
 - Styling: Bootstrap, CSS
-- Databases: mySQL
+- Databases: MySQL
 - APIs: Stripe, Board Game Atlas
 
 
@@ -42,14 +42,9 @@ Ready features:
 ![Screenshot](Cart.png)
 ![Screenshot](Checkout.png)
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
 
 ## Usage
-This website is customizable and scalable.
+This website is customizable and scalable. 
 
 
 ## Project Status
