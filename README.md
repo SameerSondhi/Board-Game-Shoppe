@@ -24,7 +24,7 @@
 - Frameworks: Spring MVC, React
 - Styling: Bootstrap, CSS
 - Databases: MySQL
-- APIs: Stripe, Board Game Atlas
+- APIs: Stripe, Board Game Atlas (deprecated)
 
 
 ## Features
