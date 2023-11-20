@@ -16,7 +16,7 @@
 
 
 ## General Information
-- This website was a very enjoyable group project that culminated into a fully fledged online board game store. It features a large inventory of popular board games, and some that you didn't know exist. Although not accepting payments at the moment, the user can log in and purchase their favorite games using our payment processing system powered by Stripe.
+- This website was a very enjoyable group project that culminated into a fully fledged online board game store. It features a large inventory of popular board games, and some that you didn't know exist. Although not accepting payments at the moment, the user can log in and purchase their favorite games using our payment processing system powered by Stripe. Unfortunately, the Board Game Atlas API has been deprecated.
 
 
 ## Technologies Used
